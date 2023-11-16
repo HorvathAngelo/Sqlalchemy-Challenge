@@ -1,5 +1,3 @@
- VacationWeather360
-
 Project Overview:
 
 VacationWeather360 is a project focused on providing insightful climate data analysis for holiday planning in Honolulu, Hawaii. The analysis involves leveraging Python, SQLAlchemy ORM queries, Pandas, and Matplotlib to explore climate data stored in an SQLite database.
